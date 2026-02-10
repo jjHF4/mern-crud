@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.ant-pagination-item-link {
+  background-color: #2563eb !important;
+  color: white !important;
+  border-radius: 4px !important;
+  border: none !important;
+  font-size: 20px !important;
+}
+
+/* Hover effect */
+.ant-pagination-item-link:hover {
+  background-color: #2563eb !important;
+  color: #fff !important;
+}
+
+.custom-select .ant-select-selector{
+  border-radius: 0 !important;
+}
